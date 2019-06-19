@@ -1,0 +1,10 @@
+body { 
+    background-image: url("memphis-mini-dark.png");
+    font-family: Arial, Helvetica, sans-serif;
+}
+header { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 { 
+    color: #4aaaa5;
+}
