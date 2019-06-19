@@ -1,10 +1,51 @@
-body { 
+* {
+    box-sizing: border-box;
+}
+.main {
     background-image: url("../images/memphis-mini-dark.png");
+    height: 650px;
+    width: 100%;
+}
+.content {
+    background-color: #ffffff;
+    border-color: #dddddd;
+    width: 960px;
+    height: 500px;
+    position: relative;
+    left: 20%;
+    top: 10%;
+}
+.Name {
+    position: relative;
+    left: 20%;
+    background-color: #4aaaa5;
+    color: white;
+    height: 100%;
+    width: 300px;
+    padding: 10px;
+    margin: 0;
+}
+.anchor {
+    position: absolute;
+    left: 60%;
+    bottom: 90%;
+    width: 300px;
+    text-align: center;
+}
+
+body { 
     font-family: Arial, Helvetica, sans-serif;
 }
 header { 
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    border-color: #cccccc;
 }
 h2 { 
     color: #4aaaa5;
+}
+footer {
+    background-color: #666666;
+    text-align: center;
+    height: 60px;
 }
