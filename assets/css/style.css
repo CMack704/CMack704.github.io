@@ -32,6 +32,9 @@
     width: 300px;
     text-align: center;
 }
+hr {
+    width: 97%;
+}
 
 body { 
     font-family: Arial, Helvetica, sans-serif;
@@ -43,9 +46,36 @@ header {
 }
 h2 { 
     color: #4aaaa5;
+    padding: 20px 20px 0px 15px;
 }
 footer {
     background-color: #666666;
     text-align: center;
     height: 60px;
+}
+img {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    float: left;
+}
+.box {
+    position: absolute;
+}
+.box-1 {
+    width: 50px;
+    height: 50px;
+    left: 100px;
+}
+.box-2 {
+
+}
+.box-3 {
+
+}
+.box-4 {
+
+}
+.box-5 {
+    
 }
