@@ -19,6 +19,7 @@
 .about {
     letter-spacing: 1px;
     line-height: 2em;
+    padding: 10px;
 }
 #name {
     width: 128%;
@@ -42,14 +43,13 @@
 .Name {
     position: relative;
     left: 20%;
-    top: 30%;
     background-color: #4aaaa5;
     color: white;
     height: 100px;
     width: 300px;
     padding: 10px;
     margin-bottom: -20px;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 .anchor {
     position: absolute;
@@ -95,6 +95,8 @@ footer {
     height: 60px;
     margin: 0px;
     padding: 20px;
+    position: relative;
+    margin-bottom: 0px;
 }
 .pic {
     height: 200px;
