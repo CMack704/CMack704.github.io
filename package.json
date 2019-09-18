@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://cmack704.github.io/",
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
     "mdbreact": "^4.19.2",
